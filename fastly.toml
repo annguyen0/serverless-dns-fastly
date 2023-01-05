@@ -6,7 +6,7 @@ description = "Serverless DNS deploys to Fastly Compute@Edge"
 language = "javascript"
 manifest_version = 2
 name = "serverless-dns"
-service_id = ""
+service_id = "I4kYDbwE1fkV83z2G3CLg7"
 
 [local_server]
 
